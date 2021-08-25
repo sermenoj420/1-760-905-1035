@@ -27,11 +27,11 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: echo Hello, world!
+        run: db, Juan valentine sermeno!
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
-        run: |
+        run: |mtr.io
           echo Add other actions to build,
           echo test, and deploy your project.
 explorer version (api): master-2021-05-07-8b0ac39 (1.1) | electroneum version: 3.3.0.0-781cfeffbkey_live_a41edf82a0dbb07fc0c6d92Create AGENT ID GTHGE3JC7HLJ-JC2VXH1PMT3C #3AUmr4VwnEdAGtCDQ1w74cjHbNfX2UtpX7TPa2akqqU5ZLKsMEJcEsTWbhXN6GEDMXGUbc1qfe8a9gn5rqhrlr6q5ev0g3s7qlcfmhfxlp8alzetnk1VJLgFDKYTLvTzyf7fSWZ3LCB5GavYNPrkcmu1dVh6H4gyHhqJA4sv7AGYtVFxStDZUxxrwxcVWcuxNCK8SH6TxuJBm1uj
